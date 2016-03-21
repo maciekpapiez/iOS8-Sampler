@@ -1,0 +1,4 @@
+language: objective-c
+xcode_project: iOS8Sampler.xcodeproj
+xcode_scheme: iOS8SamplerSimulator
+osx_image: xcode7.2
